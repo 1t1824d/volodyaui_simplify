@@ -13,4 +13,10 @@ const install = function (Vue) {
     });
 };
 
+
+// 注意这里的判断，很重要
+if(typeof windwo !== 'undefined' && window.Vue) {
+    window.Vue.use(comment)
+  }
+  
 export default install; // 这个方法以后再使用的时候可以被use调用
