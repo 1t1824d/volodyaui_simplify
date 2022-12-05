@@ -1604,7 +1604,7 @@ if (typeof window !== 'undefined') {
 // Indicate to webpack that this file can be concatenated
 /* harmony default export */ var setPublicPath = (null);
 
-;// CONCATENATED MODULE: ./node_modules/thread-loader/dist/cjs.js!./node_modules/babel-loader/lib/index.js??clonedRuleSet-40.use[1]!./node_modules/@vue/vue-loader-v15/lib/loaders/templateLoader.js??ruleSet[1].rules[3]!./node_modules/@vue/vue-loader-v15/lib/index.js??vue-loader-options!./src/package/my-button/index.vue?vue&type=template&id=ea2c47f6&
+;// CONCATENATED MODULE: ./node_modules/thread-loader/dist/cjs.js!./node_modules/babel-loader/lib/index.js??clonedRuleSet-40.use[1]!./node_modules/@vue/cli-service/node_modules/@vue/vue-loader-v15/lib/loaders/templateLoader.js??ruleSet[1].rules[3]!./node_modules/@vue/cli-service/node_modules/@vue/vue-loader-v15/lib/index.js??vue-loader-options!./src/package/my-button/index.vue?vue&type=template&id=ea2c47f6&
 var render = function render() {
   var _vm = this,
     _c = _vm._self._c;
@@ -1619,7 +1619,7 @@ var render = function render() {
 };
 var staticRenderFns = [];
 
-;// CONCATENATED MODULE: ./node_modules/thread-loader/dist/cjs.js!./node_modules/babel-loader/lib/index.js??clonedRuleSet-40.use[1]!./node_modules/@vue/vue-loader-v15/lib/index.js??vue-loader-options!./src/package/my-button/index.vue?vue&type=script&lang=js&
+;// CONCATENATED MODULE: ./node_modules/thread-loader/dist/cjs.js!./node_modules/babel-loader/lib/index.js??clonedRuleSet-40.use[1]!./node_modules/@vue/cli-service/node_modules/@vue/vue-loader-v15/lib/index.js??vue-loader-options!./src/package/my-button/index.vue?vue&type=script&lang=js&
 /* harmony default export */ var my_buttonvue_type_script_lang_js_ = ({
   name: "MyButton",
   props: {
@@ -1633,7 +1633,7 @@ var staticRenderFns = [];
 });
 ;// CONCATENATED MODULE: ./src/package/my-button/index.vue?vue&type=script&lang=js&
  /* harmony default export */ var package_my_buttonvue_type_script_lang_js_ = (my_buttonvue_type_script_lang_js_); 
-;// CONCATENATED MODULE: ./node_modules/@vue/vue-loader-v15/lib/runtime/componentNormalizer.js
+;// CONCATENATED MODULE: ./node_modules/@vue/cli-service/node_modules/@vue/vue-loader-v15/lib/runtime/componentNormalizer.js
 /* globals __VUE_SSR_CONTEXT__ */
 
 // IMPORTANT: Do NOT use ES2015 features in this file (except for modules).
@@ -1751,7 +1751,7 @@ var component = normalizeComponent(
 )
 
 /* harmony default export */ var my_button = (component.exports);
-;// CONCATENATED MODULE: ./node_modules/thread-loader/dist/cjs.js!./node_modules/babel-loader/lib/index.js??clonedRuleSet-40.use[1]!./node_modules/@vue/vue-loader-v15/lib/loaders/templateLoader.js??ruleSet[1].rules[3]!./node_modules/@vue/vue-loader-v15/lib/index.js??vue-loader-options!./src/package/my-clock/index.vue?vue&type=template&id=b7987282&scoped=true&
+;// CONCATENATED MODULE: ./node_modules/thread-loader/dist/cjs.js!./node_modules/babel-loader/lib/index.js??clonedRuleSet-40.use[1]!./node_modules/@vue/cli-service/node_modules/@vue/vue-loader-v15/lib/loaders/templateLoader.js??ruleSet[1].rules[3]!./node_modules/@vue/cli-service/node_modules/@vue/vue-loader-v15/lib/index.js??vue-loader-options!./src/package/my-clock/index.vue?vue&type=template&id=b7987282&scoped=true&
 var my_clockvue_type_template_id_b7987282_scoped_true_render = function render() {
   var _vm = this,
     _c = _vm._self._c;
@@ -1772,7 +1772,7 @@ var my_clockvue_type_template_id_b7987282_scoped_true_render = function render()
 };
 var my_clockvue_type_template_id_b7987282_scoped_true_staticRenderFns = [];
 
-;// CONCATENATED MODULE: ./node_modules/thread-loader/dist/cjs.js!./node_modules/babel-loader/lib/index.js??clonedRuleSet-40.use[1]!./node_modules/@vue/vue-loader-v15/lib/index.js??vue-loader-options!./src/package/my-clock/index.vue?vue&type=script&lang=js&
+;// CONCATENATED MODULE: ./node_modules/thread-loader/dist/cjs.js!./node_modules/babel-loader/lib/index.js??clonedRuleSet-40.use[1]!./node_modules/@vue/cli-service/node_modules/@vue/vue-loader-v15/lib/index.js??vue-loader-options!./src/package/my-clock/index.vue?vue&type=script&lang=js&
 /* harmony default export */ var my_clockvue_type_script_lang_js_ = ({
   name: "MyClock",
   props: {
@@ -1822,7 +1822,7 @@ var my_clockvue_type_template_id_b7987282_scoped_true_staticRenderFns = [];
 });
 ;// CONCATENATED MODULE: ./src/package/my-clock/index.vue?vue&type=script&lang=js&
  /* harmony default export */ var package_my_clockvue_type_script_lang_js_ = (my_clockvue_type_script_lang_js_); 
-;// CONCATENATED MODULE: ./node_modules/mini-css-extract-plugin/dist/loader.js??clonedRuleSet-22.use[0]!./node_modules/css-loader/dist/cjs.js??clonedRuleSet-22.use[1]!./node_modules/@vue/vue-loader-v15/lib/loaders/stylePostLoader.js!./node_modules/postcss-loader/dist/cjs.js??clonedRuleSet-22.use[2]!./node_modules/sass-loader/dist/cjs.js??clonedRuleSet-22.use[3]!./node_modules/@vue/vue-loader-v15/lib/index.js??vue-loader-options!./src/package/my-clock/index.vue?vue&type=style&index=0&id=b7987282&prod&lang=scss&scoped=true&
+;// CONCATENATED MODULE: ./node_modules/mini-css-extract-plugin/dist/loader.js??clonedRuleSet-22.use[0]!./node_modules/css-loader/dist/cjs.js??clonedRuleSet-22.use[1]!./node_modules/@vue/cli-service/node_modules/@vue/vue-loader-v15/lib/loaders/stylePostLoader.js!./node_modules/postcss-loader/dist/cjs.js??clonedRuleSet-22.use[2]!./node_modules/sass-loader/dist/cjs.js??clonedRuleSet-22.use[3]!./node_modules/@vue/cli-service/node_modules/@vue/vue-loader-v15/lib/index.js??vue-loader-options!./src/package/my-clock/index.vue?vue&type=style&index=0&id=b7987282&prod&lang=scss&scoped=true&
 // extracted by mini-css-extract-plugin
 
 ;// CONCATENATED MODULE: ./src/package/my-clock/index.vue?vue&type=style&index=0&id=b7987282&prod&lang=scss&scoped=true&
@@ -1848,7 +1848,7 @@ var my_clock_component = normalizeComponent(
 )
 
 /* harmony default export */ var my_clock = (my_clock_component.exports);
-;// CONCATENATED MODULE: ./node_modules/thread-loader/dist/cjs.js!./node_modules/babel-loader/lib/index.js??clonedRuleSet-40.use[1]!./node_modules/@vue/vue-loader-v15/lib/loaders/templateLoader.js??ruleSet[1].rules[3]!./node_modules/@vue/vue-loader-v15/lib/index.js??vue-loader-options!./src/package/my-customchart/index.vue?vue&type=template&id=26102c7b&scoped=true&
+;// CONCATENATED MODULE: ./node_modules/thread-loader/dist/cjs.js!./node_modules/babel-loader/lib/index.js??clonedRuleSet-40.use[1]!./node_modules/@vue/cli-service/node_modules/@vue/vue-loader-v15/lib/loaders/templateLoader.js??ruleSet[1].rules[3]!./node_modules/@vue/cli-service/node_modules/@vue/vue-loader-v15/lib/index.js??vue-loader-options!./src/package/my-customchart/index.vue?vue&type=template&id=26102c7b&scoped=true&
 var my_customchartvue_type_template_id_26102c7b_scoped_true_render = function render() {
   var _vm = this,
     _c = _vm._self._c;
@@ -1867,7 +1867,7 @@ function debounce(fn, wait) {
   timeout = setTimeout(fn, wait);
 }
 /* harmony default export */ var utils_debounce = (debounce);
-;// CONCATENATED MODULE: ./node_modules/thread-loader/dist/cjs.js!./node_modules/babel-loader/lib/index.js??clonedRuleSet-40.use[1]!./node_modules/@vue/vue-loader-v15/lib/index.js??vue-loader-options!./src/package/my-customchart/index.vue?vue&type=script&lang=js&
+;// CONCATENATED MODULE: ./node_modules/thread-loader/dist/cjs.js!./node_modules/babel-loader/lib/index.js??clonedRuleSet-40.use[1]!./node_modules/@vue/cli-service/node_modules/@vue/vue-loader-v15/lib/index.js??vue-loader-options!./src/package/my-customchart/index.vue?vue&type=script&lang=js&
 
 
 /* harmony default export */ var my_customchartvue_type_script_lang_js_ = ({
@@ -2459,7 +2459,7 @@ function debounce(fn, wait) {
 });
 ;// CONCATENATED MODULE: ./src/package/my-customchart/index.vue?vue&type=script&lang=js&
  /* harmony default export */ var package_my_customchartvue_type_script_lang_js_ = (my_customchartvue_type_script_lang_js_); 
-;// CONCATENATED MODULE: ./node_modules/mini-css-extract-plugin/dist/loader.js??clonedRuleSet-22.use[0]!./node_modules/css-loader/dist/cjs.js??clonedRuleSet-22.use[1]!./node_modules/@vue/vue-loader-v15/lib/loaders/stylePostLoader.js!./node_modules/postcss-loader/dist/cjs.js??clonedRuleSet-22.use[2]!./node_modules/sass-loader/dist/cjs.js??clonedRuleSet-22.use[3]!./node_modules/@vue/vue-loader-v15/lib/index.js??vue-loader-options!./src/package/my-customchart/index.vue?vue&type=style&index=0&id=26102c7b&prod&lang=scss&scoped=true&
+;// CONCATENATED MODULE: ./node_modules/mini-css-extract-plugin/dist/loader.js??clonedRuleSet-22.use[0]!./node_modules/css-loader/dist/cjs.js??clonedRuleSet-22.use[1]!./node_modules/@vue/cli-service/node_modules/@vue/vue-loader-v15/lib/loaders/stylePostLoader.js!./node_modules/postcss-loader/dist/cjs.js??clonedRuleSet-22.use[2]!./node_modules/sass-loader/dist/cjs.js??clonedRuleSet-22.use[3]!./node_modules/@vue/cli-service/node_modules/@vue/vue-loader-v15/lib/index.js??vue-loader-options!./src/package/my-customchart/index.vue?vue&type=style&index=0&id=26102c7b&prod&lang=scss&scoped=true&
 // extracted by mini-css-extract-plugin
 
 ;// CONCATENATED MODULE: ./src/package/my-customchart/index.vue?vue&type=style&index=0&id=26102c7b&prod&lang=scss&scoped=true&
@@ -2500,6 +2500,11 @@ const install = function (Vue) {
     Vue.component(com.name, com);
   });
 };
+
+// 注意这里的判断，很重要
+if (typeof windwo !== 'undefined' && window.Vue) {
+  window.Vue.use(comment);
+}
 /* harmony default export */ var src_package = (install); // 这个方法以后再使用的时候可以被use调用
 ;// CONCATENATED MODULE: ./node_modules/@vue/cli-service/lib/commands/build/entry-lib.js
 

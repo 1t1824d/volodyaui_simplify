@@ -1,6 +1,18 @@
 {
   "name": "volodyaui",
-  "version": "0.0.1",
+  "version": "0.0.2",
+  "description": "",
+  "main": "volodyaui.common.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
+{
+  "name": "volodyaui",
+  "version": "1.0.0",
   "description": "",
   "main": "volodyaui.common.js",
   "scripts": {
@@ -14,6 +26,15 @@
   "author": "",
   "license": "MIT",
   "private": false,
+  "homepage": "https://github.com/1t1824d/volodyaui", 
+  "bugs": {
+    "url": "https://github.com/1t1824d/volodyaui"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/1t1824d/volodyaui"
+  },
+
   "dependencies": {
     "core-js": "^3.8.3",
     "echarts": "^5.3.1",
